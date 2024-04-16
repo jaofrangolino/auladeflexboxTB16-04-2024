@@ -1,0 +1,81 @@
+.caixa
+{
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+}
+
+.caixaComflex
+{
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    display: flex;
+}
+
+.caixaComflexWarp
+{
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.caixaflexstart
+{
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.caixaflexend
+{
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.caixaSpaceBetween
+{
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+}
+
+.caixaSpaceAround
+{
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: space-around;
+}
+
+.caixacenter
+{
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center; 
+}
+
+.item
+{
+    background-color: rgb(85, 193, 197);
+    font-size: 32px;
+    text-align: center;
+    margin: 5px;
+}
+
+h1
+{
+    text-align: center;
+}
